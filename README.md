@@ -6,6 +6,14 @@ An end-to-end distributed machine learning project using PySpark to analyze tele
 ## Problem Statement
 Customer churn represents a critical revenue challenge in subscription-based services, where customer acquisition costs substantially outweigh retention investments. Identifying customers at high risk of churning allows businesses to intervene proactively with targeted retention campaigns, customized incentives, and service enhancements before revenue loss occurs.
 
+## Screenshots
+
+### Churn Analysis
+![Churn Analysis](screenshots/data_analysis_churn_by_contract.png)
+
+### Feature Importance
+![Feature Importance](screenshots/model_feature_importance.png)
+
 ## Project Highlights
 - **Distributed Computing Pipeline**: Leveraged PySpark and Apache Spark for distributed data preprocessing, scaling, and machine learning.
 - **Exploratory Data Analysis**: Assessed numerical distributions, multi-feature correlation matrices, and categorical churn patterns using Pandas, Matplotlib, and Plotly.
@@ -115,17 +123,6 @@ Decision Tree
 Evaluation
 ↓
 Hyperparameter Tuning
-
-## Screenshots
-
-### Churn Analysis
-![Churn Analysis](screenshots/data_analysis_churn_by_contract.png)
-
-### Feature Importance
-![Feature Importance](screenshots/model_feature_importance.png)
-
-### Hyperparameter Tuning
-![Hyperparameter Tuning](screenshots/hyperparameter_tuning_accuracy.png)
 
 ## How to Run
 
