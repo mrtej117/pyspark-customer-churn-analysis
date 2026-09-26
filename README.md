@@ -137,3 +137,20 @@ Open and run `churn.ipynb` using Jupyter Notebook or Google Colab:
 ```bash
 jupyter notebook churn.ipynb
 ```
+### Prerequisites
+
+Before running the project, make sure you have:
+
+- Python 3.9 or later
+- Java 8 or later
+- Apache Spark / PySpark
+- Jupyter Notebook or Google Colab
+- Git
+
+## How to Run
+
+### 1. Clone the repository
+
+```bash
+git clone https://github.com/mrtej117/pyspark-customer-churn-analysis.git
+cd pyspark-customer-churn-analysis
